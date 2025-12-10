@@ -1,0 +1,386 @@
+{
+  "2cfe5cd8-2f50-4a73-8721-0b4a21697bf4": {
+    "text": "10 Prompt สำหรับสร้าง UI Design (Front-end)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "2b79d4d0-4beb-4e18-8741-a781935542de": {
+    "text": "1. Modern Clean SaaS Dashboard (แนว Dashboard ทันสมัย)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "bbcc739e-318b-4c4b-a94e-868945fd2a3c": {
+    "text": "เหมาะสำหรับระบบหลังบ้าน หรือ Admin Panel ที่เน้นความสะอาดตาและการจัดวางข้อมูล",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "aa20e1f2-9af6-4bae-8f17-219bd3b093af": {
+    "text": "Prompt:High-fidelity UI design of a modern SaaS analytics dashboard, light mode, clean white background with soft pastel blue accents, minimal aesthetics, data visualization charts, rounded corners, floating cards with soft drop shadows, sidebar navigation, user profile section, Figma style, trending on Dribbble, 4k resolution.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "7413fb48-f786-4341-a891-17f18fa3e14b": {
+    "text": "2. Glassmorphism Mobile App (แนวแก้วขุ่น โปร่งแสง)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "d9ce5f4a-f975-45a1-9404-823eff9af6d9": {
+    "text": "เทรนด์ที่ยังคงฮิต เน้นความฟุ้ง เลเยอร์ และสีสันที่ดูพรีเมียม",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "859752b2-7f00-47d4-b9fc-46602b4c27bd": {
+    "text": "Prompt:Mobile app interface design, weather application, Glassmorphism style, frosted glass effect on cards, vivid blurred gradient background (purple and teal), translucent layers, white typography, sleek icons, iOS 18 style, depth of field, futuristic and dreamy look, high quality UI.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "93b8a8c7-1ba9-46ad-bc25-842e9afd1300": {
+    "text": "Getty Images",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "66936b2b-d29e-4f2b-a5c6-463bb0eac373": {
+    "text": "3. Bento Grid Portfolio (แนวจัดระเบียบแบบกล่องข้าว)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "d39351fc-29de-4862-afb0-26ea50d4e541": {
+    "text": "ยอดนิยมมากสำหรับ Portfolio หรือ Landing Page ในปี 2024-2025 เน้นการแบ่งสัดส่วนที่ชัดเจน",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "db56660f-4201-4b9e-a189-33b462dde4bc": {
+    "text": "Prompt:Personal portfolio website landing page, Bento Grid layout style, modular grid system, distinct rectangular blocks showcasing projects and skills, rounded corners, large typography, high contrast, minimalist color palette (black, white, and neon green), highly organized, Apple design aesthetic, UI/UX masterpiece.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "2c20bb3b-f49b-4a8f-9b48-6002137906a0": {
+    "text": "4. Dark Mode Cyberpunk/Gaming (แนวเกมมิ่ง ดุดัน)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "27fc4421-6747-42a6-b023-8a7f4c8b0aed": {
+    "text": "สำหรับเว็บเกม E-sports หรือ Web3 ที่ต้องการความล้ำสมัย",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "04a2428b-e984-4c79-90dc-b6928197db74": {
+    "text": "Prompt:Game store website UI, dark mode, Cyberpunk aesthetic, neon blue and magenta glow, futuristic HUD elements, glitch effect details, metallic textures, immersive background, bold sans-serif fonts, high-tech interface, steam platform vibe, interactive buttons, 8k resolution.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "f257f29e-ae5e-4e5a-80cc-1307fb24c82b": {
+    "text": "5. Neo-Brutalism E-Commerce (แนวสตรีท แฟชั่น)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "f566c203-df3f-4bfc-9f64-0b74becd6dd0": {
+    "text": "เน้นความดิบ เส้นขอบหนา สีสด เหมาะกับแบรนด์แฟชั่นหรือสินค้าวัยรุ่น",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "f7baf3a6-3490-48e9-8dfa-7d5ce0c1c3fe": {
+    "text": "Prompt:E-commerce mobile app UI for streetwear brand, Neo-Brutalism style, high contrast, thick black outlines, raw aesthetic, bold vibrant colors (yellow and black), brutalist typography, overlapping elements, retro stickers, unique layout, edgy and trendy, unpolished look.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "b0b3e968-0357-45a4-afdd-f9230d644763": {
+    "text": "6. Minimalist Luxury (แนวหรูหรา มินิมอล)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "580c6be9-d674-4e3e-9f1e-71148cf1dae5": {
+    "text": "สำหรับเว็บโรงแรม เครื่องประดับ หรืออสังหาริมทรัพย์",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "327b9d7e-654f-488a-8180-83a0d6734ac9": {
+    "text": "Prompt:Luxury real estate landing page UI, minimalist elegance, plenty of whitespace, Serif typography for headings, gold and marble color palette, high-quality hero image of a modern villa, thin lines, sophisticated layout, premium feel, architectural design style.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "5ffe7b74-c7f4-4068-a376-368baf7f59f4": {
+    "text": "7. 3D & Claymorphism (แนวน่ารัก 3D นูน)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "cad7bb13-985f-495d-bd1c-a46cc301a05e": {
+    "text": "เหมาะกับแอปสำหรับเด็ก การเรียนรู้ หรือ Startups ที่ต้องการความ Friendly",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "3221ce18-e84a-471d-b09b-91f1a0e2fa95": {
+    "text": "Prompt:Educational mobile app UI, Claymorphism style, 3D soft clay buttons and cards, marshmallow texture, floating 3D icons, pastel color palette (soft pink, blue, yellow), rounded shapes, playful and friendly interface, joyful atmosphere, high detail render.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "7aebf198-f416-4a3d-a70e-ae750a29c447": {
+    "text": "8. Corporate Fintech (แนวการเงิน น่าเชื่อถือ)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "bb89d298-e52a-4bee-81a1-1d80d2956ccb": {
+    "text": "เน้นความน่าเชื่อถือ ข้อมูลชัดเจน (Data Heavy)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "5cb0adbe-203b-4fdb-be69-3c20977d483b": {
+    "text": "Prompt:Fintech banking app dashboard, mobile view, trust-inspiring blue and white color scheme, clean data tables, line graphs showing stock growth, secure login screen, crisp icons, professional UI, focused on usability and clarity, modern banking aesthetic.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "cd39391f-3168-4df5-b5ed-ef8016591e8d": {
+    "text": "9. Retro Vaporwave (แนวย้อนยุค 90s)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "05b55716-f5ee-49ec-8f4d-c96cee0e9ae6": {
+    "text": "สำหรับงานอีเวนต์ ดนตรี หรือโปรเจกต์ที่ต้องการความ Nostalgia",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "86dfdd88-fa2b-4303-8cce-f30b0132ecf2": {
+    "text": "Prompt:Music streaming website UI, Vaporwave and Retro 90s aesthetic, Windows 95 style windows, pixel art icons, synthwave sunset gradient background, lo-fi vibe, pink and cyan grid lines, nostalgic interface, creative and artistic layout.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "5c21cb5e-9444-4925-98d8-0987e139e76f": {
+    "text": "10. AI/Chatbot Interface (แนว Chat AI ล้ำๆ)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "9d2e4974-97bd-4805-9b69-39e6342b5349": {
+    "text": "หน้าจอแชทที่มีความ Clean แต่ดูล้ำด้วยแสงและอนิเมชัน",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "fb4dfb73-330f-4887-9015-d65b204be2c3": {
+    "text": "Prompt:AI Chatbot interface design on desktop, dark theme with deep indigo background, glowing avatar, floating chat bubbles with subtle gradients, code snippet blocks with syntax highlighting, clean input field, sleek sidebar, futuristic assistant vibe, UX focused, smooth and polished.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "5a3fa5ef-9e6a-41ce-b87d-c397236555b6": {
+    "text": "10 Prompt สำหรับสร้าง UI Design (Front-end)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "09b3875c-776f-43fd-86ba-41f7d26c10bc": {
+    "text": "1. Modern Clean SaaS Dashboard (แนว Dashboard ทันสมัย)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "607c5033-618d-459e-a1bc-dffe7ff82c6a": {
+    "text": "เหมาะสำหรับระบบหลังบ้าน หรือ Admin Panel ที่เน้นความสะอาดตาและการจัดวางข้อมูล",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "4c19884d-c986-4d61-b894-0a992e59e054": {
+    "text": "Prompt:High-fidelity UI design of a modern SaaS analytics dashboard, light mode, clean white background with soft pastel blue accents, minimal aesthetics, data visualization charts, rounded corners, floating cards with soft drop shadows, sidebar navigation, user profile section, Figma style, trending on Dribbble, 4k resolution.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "c9e39f8c-5980-4626-a067-f03d4d6a3bb7": {
+    "text": "2. Glassmorphism Mobile App (แนวแก้วขุ่น โปร่งแสง)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "7291fd0a-a355-4eb3-96c4-29d8cf2b1bb4": {
+    "text": "เทรนด์ที่ยังคงฮิต เน้นความฟุ้ง เลเยอร์ และสีสันที่ดูพรีเมียม",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "7bfb9e71-3d20-40fb-af3a-c39b16ebb52b": {
+    "text": "Prompt:Mobile app interface design, weather application, Glassmorphism style, frosted glass effect on cards, vivid blurred gradient background (purple and teal), translucent layers, white typography, sleek icons, iOS 18 style, depth of field, futuristic and dreamy look, high quality UI.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "807c6406-05f1-4cfe-96fc-c06bfcd12e84": {
+    "text": "Getty Images",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "bfad846a-7133-469c-bc7f-2ce98d686f20": {
+    "text": "3. Bento Grid Portfolio (แนวจัดระเบียบแบบกล่องข้าว)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "3a2f2364-140b-4324-9f04-2376a5e492fd": {
+    "text": "ยอดนิยมมากสำหรับ Portfolio หรือ Landing Page ในปี 2024-2025 เน้นการแบ่งสัดส่วนที่ชัดเจน",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "8572a34f-7ea1-4098-b202-429c62cdd5ee": {
+    "text": "Prompt:Personal portfolio website landing page, Bento Grid layout style, modular grid system, distinct rectangular blocks showcasing projects and skills, rounded corners, large typography, high contrast, minimalist color palette (black, white, and neon green), highly organized, Apple design aesthetic, UI/UX masterpiece.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "932ca672-f8d6-4fae-b889-400ccb6691f7": {
+    "text": "4. Dark Mode Cyberpunk/Gaming (แนวเกมมิ่ง ดุดัน)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "35f3ca68-c7d7-43b2-a6a5-469739da6a8e": {
+    "text": "สำหรับเว็บเกม E-sports หรือ Web3 ที่ต้องการความล้ำสมัย",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "e4fda219-76cf-48d5-a43c-fbd65999892c": {
+    "text": "Prompt:Game store website UI, dark mode, Cyberpunk aesthetic, neon blue and magenta glow, futuristic HUD elements, glitch effect details, metallic textures, immersive background, bold sans-serif fonts, high-tech interface, steam platform vibe, interactive buttons, 8k resolution.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "a15e5b49-3276-453f-bbbd-f97e89df3b69": {
+    "text": "5. Neo-Brutalism E-Commerce (แนวสตรีท แฟชั่น)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "5cefde70-3730-4937-8ba1-a8e25b5c6328": {
+    "text": "เน้นความดิบ เส้นขอบหนา สีสด เหมาะกับแบรนด์แฟชั่นหรือสินค้าวัยรุ่น",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "9d7aa218-72dc-49bc-bd1f-3c3d44a10ebe": {
+    "text": "Prompt:E-commerce mobile app UI for streetwear brand, Neo-Brutalism style, high contrast, thick black outlines, raw aesthetic, bold vibrant colors (yellow and black), brutalist typography, overlapping elements, retro stickers, unique layout, edgy and trendy, unpolished look.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "3708a436-6edb-4653-aba5-1e4b6a2eb811": {
+    "text": "6. Minimalist Luxury (แนวหรูหรา มินิมอล)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "99b77486-6a7b-4a0e-9ae6-e64b0bc8c00d": {
+    "text": "สำหรับเว็บโรงแรม เครื่องประดับ หรืออสังหาริมทรัพย์",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "6d97c03e-f5c7-4338-be59-555ad0729eba": {
+    "text": "Prompt:Luxury real estate landing page UI, minimalist elegance, plenty of whitespace, Serif typography for headings, gold and marble color palette, high-quality hero image of a modern villa, thin lines, sophisticated layout, premium feel, architectural design style.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "243141de-d12c-4cd7-9a83-bf4a48d49dc3": {
+    "text": "7. 3D & Claymorphism (แนวน่ารัก 3D นูน)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "b1ad05d1-373f-4d90-93b0-722dc866d43d": {
+    "text": "เหมาะกับแอปสำหรับเด็ก การเรียนรู้ หรือ Startups ที่ต้องการความ Friendly",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "9e2b807d-ea05-414c-b6dc-8d300b410a83": {
+    "text": "Prompt:Educational mobile app UI, Claymorphism style, 3D soft clay buttons and cards, marshmallow texture, floating 3D icons, pastel color palette (soft pink, blue, yellow), rounded shapes, playful and friendly interface, joyful atmosphere, high detail render.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "511d003f-83aa-44c4-8dd6-59492019234d": {
+    "text": "8. Corporate Fintech (แนวการเงิน น่าเชื่อถือ)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "c850e4a8-2ec6-4ea7-91b3-e4fafef75564": {
+    "text": "เน้นความน่าเชื่อถือ ข้อมูลชัดเจน (Data Heavy)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "b55e7cd6-760b-43d0-bd1c-e271114b5a7f": {
+    "text": "Prompt:Fintech banking app dashboard, mobile view, trust-inspiring blue and white color scheme, clean data tables, line graphs showing stock growth, secure login screen, crisp icons, professional UI, focused on usability and clarity, modern banking aesthetic.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "fdc65010-1cd4-4ee1-a683-4e46a99d5ddd": {
+    "text": "9. Retro Vaporwave (แนวย้อนยุค 90s)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "c137b480-89b3-4dc0-a729-19c0a2a203de": {
+    "text": "สำหรับงานอีเวนต์ ดนตรี หรือโปรเจกต์ที่ต้องการความ Nostalgia",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "064747bb-81c6-4d04-894f-ee2e8630f272": {
+    "text": "Prompt:Music streaming website UI, Vaporwave and Retro 90s aesthetic, Windows 95 style windows, pixel art icons, synthwave sunset gradient background, lo-fi vibe, pink and cyan grid lines, nostalgic interface, creative and artistic layout.",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "e3a8bfad-4973-4b8d-9e6d-b3bb4c18918b": {
+    "text": "10. AI/Chatbot Interface (แนว Chat AI ล้ำๆ)",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "c1561e08-f79c-4a2a-8b0c-984b7d5e52a5": {
+    "text": "หน้าจอแชทที่มีความ Clean แต่ดูล้ำด้วยแสงและอนิเมชัน",
+    "meta": {
+      "source": "web-ui"
+    }
+  },
+  "f3707fe4-dd7b-4f09-846a-6212d606604c": {
+    "text": "Prompt:AI Chatbot interface design on desktop, dark theme with deep indigo background, glowing avatar, floating chat bubbles with subtle gradients, code snippet blocks with syntax highlighting, clean input field, sleek sidebar, futuristic assistant vibe, UX focused, smooth and polished.",
+    "meta": {
+      "source": "web-ui"
+    }
+  }
+}
