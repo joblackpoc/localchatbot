@@ -11,7 +11,7 @@ Django==6.0
 django-crispy-forms==2.5
 django-filter==25.2
 faiss-cpu==1.13.1
-filelock==3.20.0
+filelock==3.20.1
 fsspec==2025.12.0
 huggingface-hub==0.36.0
 idna==3.11
